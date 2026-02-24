@@ -1,4 +1,4 @@
-## Hi there, I'm Shivam Kummar 👋
+## Hi there, I'm Shivam Kumar 👋
 
 <!--
 **ShivamKumar9234/ShivamKumar9234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
